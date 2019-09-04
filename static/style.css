@@ -1,0 +1,19 @@
+div {
+    display: block;
+    margin: 10px auto;
+    width: 10%;
+}
+
+div h2, h4 {
+    color: red;
+    text-align: center;
+}
+
+div h4 {
+    font-size: 56px;
+}
+
+div .button {
+    display: block;
+    margin: 10px auto;
+}
